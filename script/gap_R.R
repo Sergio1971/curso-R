@@ -1,0 +1,5 @@
+gapminder <- read.csv("data/gapminder-FiveYearData.csv")
+head(gapminder)
+str(gapminder)
+head(gapminder)
+print(gapminder)
